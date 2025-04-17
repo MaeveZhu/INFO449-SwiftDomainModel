@@ -1,6 +1,8 @@
 # Greetings!
 This exercise is designed to test your ability to work with complex composite types (classes and structs) in the Swift programming language.
 
+Ted wrote this.
+
 Your task is simple: Make the code compile, and make all the unit tests pass. You may not change the tests that already exist; you may, however, add a few tests, as well.
 
 ## To get started...
